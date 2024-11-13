@@ -40,7 +40,7 @@ include_once "header.php";
 
                         <h4 class="fw-semibold mb-0 text-body-emphasis">Luiz Parucker</h4>
                         <p class="text-body-secondary">Analista de sistema.</p>
-                        <a arget ="_blank" href="https://www.linkedin.com/in/luiz-vicente-p-a02376131/?trk=opento_sprofile_topcard" class="btn btn-primary btn-lg">Conecte-se</a>
+                        <a target ="_blank" href="https://www.linkedin.com/in/luiz-vicente-p-a02376131/?trk=opento_sprofile_topcard" class="btn btn-primary btn-lg">Conecte-se</a>
                     </div>
                 </div>
             </div>
