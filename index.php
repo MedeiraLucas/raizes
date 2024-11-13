@@ -46,7 +46,7 @@ include_once "header.php";
                         Foi concebido para dar uma resposta mais ampla à problemática socioeconômica que vive a população de baixa renda, 
                         uma conjuntura resultante dos efeitos cumulativos de gerações que começam e permanecem na base da pirâmide socioeconômica,
                         com poucas chances de ascensão social.  </p>
-                    <a href="https://www.projetoresgate.org.br/quemsomos" class="btn btn-primary">
+                    <a arget ="_blank" href="https://www.projetoresgate.org.br/quemsomos" class="btn btn-primary">
                         Saiba Mais
                     </a>
                 </div>
@@ -59,7 +59,7 @@ include_once "header.php";
                         adolescentes, jovens e adultos em situação de vulnerabilidade social. Tem por premissa contribuir com o futuro de milhares
                          de pessoas e construir uma sociedade democrática, justa e solidária.Integrante da Federação Internacional de Fé e Alegria, 
                          atua no Brasil há 43 anos.</p>
-                    <a href="https://www.feyalegria.org/brasil/" class="btn btn-primary">
+                    <a target ="_blank" href="https://www.feyalegria.org/brasil/" class="btn btn-primary">
                         Saiba Mais
                     </a>
                 </div>
@@ -72,7 +72,7 @@ include_once "header.php";
                         fazia trabalho social informal, visitou a comunidade Jardim Edilene para entregar uma cesta básica. 
                         Renan viu uma realidade de vulnerabilidade social que nunca tinha visto em Joinville, e surgiu um desejo 
                         de transformar aquele lugar. Isso se tornou sua missão.</p>
-                    <a href="https://www.institutoraizes.com/sobre" class="btn btn-primary">
+                    <a target ="_blank" href="https://www.institutoraizes.com/sobre" class="btn btn-primary">
                         Saiba Mais
                     </a>
                 </div>

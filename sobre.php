@@ -16,7 +16,7 @@ include_once "header.php";
                 <p class="text-body-secondary">Tudo começou em 2017, quando o fundador e atual presidente, Renan Morghett, um jovem de 23 anos que já
                      fazia trabalho social informal, visitou a comunidade Jardim Edilene para entregar uma cesta básica. Renan viu uma realidade de 
                      vulnerabilidade social que nunca tinha visto em Joinville, e surgiu um desejo de transformar aquele lugar. Isso se tornou sua missão.</p>
-                <a href="https://www.institutoraizes.com/sobre" class="btn btn-primary btn-lg">Saiba Mais</a>
+                <a target ="_blank" href="https://www.institutoraizes.com/sobre" class="btn btn-primary btn-lg">Saiba Mais</a>
             </div>
 
             <div class="col">
