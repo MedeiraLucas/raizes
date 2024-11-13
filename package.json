@@ -1,0 +1,17 @@
+{
+  "name": "projetoconclusaoweb",
+  "private": true, 
+  "version": "1.0.0",
+  "description": "base do professor obrigado professor pela força ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "projeto",
+    "teste",
+    "base"
+  ],
+  "author": "Lucas Medeira, Fernando Ventura, Antonio Negreiros, Luiz Vicente, Felipe Ribeiro",
+  "license": "ISC"
+}
